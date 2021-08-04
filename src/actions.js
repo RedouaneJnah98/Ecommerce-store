@@ -1,0 +1,7 @@
+export const GET_PRODUCTS = 'GET_PRODUCTS'
+export const IS_LOADING = 'IS_LOADING'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const REMOVE_CART_ITEM = 'REMOVE_CART_ITEM'
+export const CLEAR_CART = 'CLEAR_CART'
+export const TOGGLE_CART_ITEM_AMOUNT = 'TOGGLE_CART_ITEM_AMOUNT'
+export const COUNT_CART_TOTAL = 'COUNT_CART_TOTAL'
